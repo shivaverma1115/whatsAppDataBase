@@ -116,6 +116,7 @@
   "messagesList" : [
     {
       "id": 1,
+      "name": "Hitesh Sonavane",
       "messageType": "TEXT",
       "text": "Hey Man 😁",
       "senderID": "0",
@@ -123,6 +124,7 @@
     },
     {
       "id": 2,
+      "name": "Chirag Arora",
       "messageType": "TEXT",
       "text": "Hey, What's up?",
       "senderID": "1",
@@ -130,6 +132,7 @@
     },
     {
       "id": 3,
+      "name": "Elon Musk",
       "messageType": "TEXT",
       "text": "All Good, What about you?",
       "senderID": "0",
@@ -137,6 +140,7 @@
     },
     {
       "id": 4,
+      "name": " jeff bejos ",
       "messageType": "TEXT",
       "text": "I'm good as well",
       "senderID": "1",
@@ -144,16 +148,98 @@
     },
     {
       "id": 5,
+      "name": "Mandeep Rao",
       "messageType": "TEXT",
       "text": "Great 😁",
       "senderID": "0",
       "addedOn": "12:00 PM"
     },
     {
-      "id": 5,
+      "id": 6,
+      "name": "Aman Verma",
       "messageType": "TEXT",
       "text": "Have you subscribed The Indian Dev ?",
       "senderID": "1",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 7,
+      "name": "Deepak Chorasiya",
+      "messageType": "TEXT",
+      "text": " Group D bhai Great 😁",
+      "senderID": "0",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 8,
+      "name": " Uttam Prajapati",
+      "messageType": "TEXT",
+      "text": " Ganga ji chloge? Great 😁",
+      "senderID": "0",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 9,
+      "name": "Hitesh Sonavane",
+      "messageType": "TEXT",
+      "text": "Man Great 😁",
+      "senderID": "0",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 10,
+      "name": "Chirag Arora",
+      "messageType": "TEXT",
+      "text": "Great 😁",
+      "senderID": "0",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 11,
+      "name": "Elon Musk",
+      "messageType": "TEXT",
+      "text": "Amazing bro Great 😁",
+      "senderID": "0",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 12,
+      "name": " jeff bejos ",
+      "messageType": "TEXT",
+      "text": "Great 😁",
+      "senderID": "0",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 13,
+      "name": "Mandeep Rao",
+      "messageType": "TEXT",
+      "text": " Momo Great 😁",
+      "senderID": "0",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 14,
+      "name": "Aman Verma",
+      "messageType": "TEXT",
+      "text": "Great 😁",
+      "senderID": "0",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 15,
+      "name": "Deepak Chorasiya",
+      "messageType": "TEXT",
+      "text": "Great 😁",
+      "senderID": "0",
+      "addedOn": "12:00 PM"
+    },
+    {
+      "id": 16,
+      "name": " Uttam Prajapati",
+      "messageType": "TEXT",
+      "text": "Great 😁",
+      "senderID": "0",
       "addedOn": "12:00 PM"
     }
   ]
