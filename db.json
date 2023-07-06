@@ -83,8 +83,14 @@
       "id": 7,
       "name": "Deepak Chorasiya",
       "profilePic": "https://pps.whatsapp.net/v/t61.24694-24/353815065_191090607258373_455194630789940626_n.jpg?ccb=11-4&oh=01_AdQJUP9XZwfSI1q1zrmoWEg0qsFxqJ56BwOobrvg-_AvRg&oe=64AF6810",
-      "lastText": "Group D bhai",
-      "lastTextTime": "12:30 PM"
+      "massage": {
+        "messageType": "TEXT",
+        "senderID": "0",
+        "text": "Group D bhai",
+        "addedOn": "12:00 PM",
+        "lastText": "Group D bhai",
+        "lastTextTime": "12:58 PM"
+      }
     },
     {
       "id": 8,
